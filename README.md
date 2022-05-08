@@ -31,10 +31,10 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
     If you recalculate the grade averages while removing the number of 9th graders attending Thomas High school, the passing percentages do not change. The actually boost their ranking from number 4 to number 2 as the highest perfomring school.
 
 ## PyCity Schools Top 5 - Original Rankings
-    ![PyCity Schools Top 5 - Original Rankings](Resources/PyCity Schools Original - Ranking.png)
+    ![PyCity Schools Top 5 - Original Rankings](https://github.com/namin1993/School_District_Analysis/blob/e0db4e22172c5cd52f69bd725a723fa894e13c92/Resources/PyCity%20Schools%20Original%20-%20Ranking.png)
 
 ## PyCity Schools Top 5 - New Rankings
-    ![PyCity Schools Top 5 - New Rankings](Resources/PyCity Schools Challenge - Ranking.png)
+    ![PyCity Schools Top 5 - New Rankings](https://github.com/namin1993/School_District_Analysis/blob/3d99152e9d219ec4b64cb89707cd1600d1486bdb/Resources/PyCity%20Schools%20Challenge%20-%20Top%20Schools%20Ranking.png)
 
 How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
